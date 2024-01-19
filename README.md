@@ -17,7 +17,7 @@
 ||생성 패턴|구조 패턴|행위 패턴|
 |:---:|:---:|:---:|:---:|
 |설명| 객체의 인스턴스를 생성하는 패턴 <br/> 기존 코드의 유연성과 재사용성을 증가시키는 객체를 생성 | 클래스와 객체를 더 큰 구조로 만들 수 있게하는(조립하는) 패턴 | 클래스와 객체들이 상호작용하는 방법과 역할을 분담하는 방법을 다루는 패턴 <br /> 객체간의 책임을 할당|
-|종류| Singleton, Factory | Proxy | Obsserver, Strategy |
+|종류| Singleton, Factory | Proxy | Observer, Strategy |
 
 
 ### [Singleton Pattern](singleton_pattern/Singleton.md)
