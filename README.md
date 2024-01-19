@@ -20,14 +20,13 @@
 |종류| Singleton, Factory | Proxy | Observer, Strategy |
 
 
-### [Singleton Pattern](singleton_pattern/Singleton.md)
-### - Factory Pattern
+### [- Singleton Pattern](singleton_pattern/Singleton.md)
+
+### [- Factory Pattern](factory_pattern/Factory.md)
 
 ### - Observer Pattern
 
 ### - Proxy Pattern
-<!-- 
-### - Singleton Pattern -->
 
 ### - Strategy Pattern
 
