@@ -19,17 +19,15 @@
 |설명| 객체의 인스턴스를 생성하는 패턴 <br/> 기존 코드의 유연성과 재사용성을 증가시키는 객체를 생성 | 클래스와 객체를 더 큰 구조로 만들 수 있게하는(조립하는) 패턴 | 클래스와 객체들이 상호작용하는 방법과 역할을 분담하는 방법을 다루는 패턴 <br /> 객체간의 책임을 할당|
 |종류| Singleton, Factory | Proxy | Obsserver, Strategy |
 
-<!-- <br/> -->
-<!-- * 다양한 패턴들이 있지만, 작성 시점 기준으로 학습한 패턴들만 적어두었습니다. -->
 
-[테스트](singleton_pattern/Singleton.md)
+### [Singleton Pattern](singleton_pattern/Singleton.md)
 ### - Factory Pattern
 
 ### - Observer Pattern
 
 ### - Proxy Pattern
-
-### - Singleton Pattern
+<!-- 
+### - Singleton Pattern -->
 
 ### - Strategy Pattern
 
@@ -37,3 +35,6 @@
 ## Reference
 - [면접을 위한 CS 전공지식 노트](https://m.yes24.com/Goods/Detail/108887922)
 - [리팩토링 구루](https://refactoring.guru/ko/design-patterns)
+
+<!-- <br/> -->
+<!-- * 다양한 패턴들이 있지만, 작성 시점 기준으로 학습한 패턴들만 적어두었습니다. -->
