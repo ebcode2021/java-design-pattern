@@ -22,7 +22,7 @@
 <br/>
 * 다양한 패턴들이 있지만, 작성 시점 기준으로 학습한 패턴들만 적어두었습니다.
 
-[테스트]("singleton_pattern/Singleton.md")
+[테스트](singleton_pattern/Singleton.md)
 ### - Factory Pattern
 
 ### - Observer Pattern
